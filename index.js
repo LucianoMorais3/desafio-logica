@@ -1,4 +1,4 @@
-let nomeDoHeroi = 'Luciano'
+let nomeDoHeroi = 'Mario'
 
 let xp = 10001
 
